@@ -17,3 +17,6 @@ Shout out to [OreSat](http://oresat.org/) for giving us the idea of including th
 ## Come to AACT Shop Hours
  - The best way to get involved is to start coming to shop hours. These are **Wednesday 2-5pm** each week, and are times when there is guaranteed to be somebody in the lab working away. Come and have your questions answered, tinker with hardware, learn new things, and make progress on your satellite componets!
  
+## Learn Github
+This should probably be near the top but, this is a pretty cool tutorial visualizing how branching and everything works in github. Even if you've done github before this can definately help you sharpen your skills. The Tutorial is this webpage:
+https://learngitbranching.js.org/
