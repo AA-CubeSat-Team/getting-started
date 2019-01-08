@@ -10,11 +10,12 @@ Shout out to [OreSat](http://oresat.org/) for giving us the idea of including th
  - The [Educational Launch of Nanosatellites (ELaNa)](https://www.nasa.gov/mission_pages/smallsats/elana/index.html) is an initiative of the NASA's Launch Services Program. ELaNa schedules and flies CubeSats that were accespted by CSLI. We haven't been manifested yet, but when we do, it'll be through ELaNa.
 
 ## Check out AACT Resources
+ - [Our website](aact.space) has some more details on our current mission, the team, and the facilities.
  - We use GitHub to manage all of the code, CAD and tex files (among others). Here are a few good tutorials for learning how to use GitHub:
    - [GitHub's own guides](https://guides.github.com/),
    - [Tutorial to visualize branching, and more](https://learngitbranching.js.org/).
  - Written documents, such as ICDs, requirements, ConOps, etc are all located on our Google Team Drive. One of the admins can add you to this once you join.
- - [Our website](aact.space) has some more details on our current mission, the team, and the facilities.
 
-## Come to AACT Shop Hours
- - The best way to get involved is to start coming to shop hours in AERB 023. These are **Wednesday 2-5pm** and **Fridays 9-11am** each week, and are times when there is guaranteed to be somebody in the lab working away. Come and have your questions answered, tinker with hardware, learn new things, and make progress on your satellite componets!
+## Join the Team
+ - The best way to get involved is to start coming to shop hours in AERB 023. These are **Thursdays 12-3pm** each week, and is a time when there is guaranteed to be somebody in the lab working away. Come and have your questions answered, tinker with hardware, learn new things, and make progress on your satellite components!
+ - If you can't make it to shop hours, send us an email at aact@uw.edu and we'll be more than happy to find a time when we can meet you and get the ball rolling.
