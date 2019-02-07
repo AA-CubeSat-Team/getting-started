@@ -10,7 +10,7 @@ Shout out to [OreSat](http://oresat.org/) for giving us the idea of including th
  - The [Educational Launch of Nanosatellites (ELaNa)](https://www.nasa.gov/mission_pages/smallsats/elana/index.html) is an initiative of the NASA's Launch Services Program. ELaNa schedules and flies CubeSats that were accespted by CSLI. We haven't been manifested yet, but when we do, it'll be through ELaNa.
 
 ## Check out AACT Resources
- - [Our website](aact.space) has some more details on our current mission, the team, and the facilities.
+ - [Our website](http://aact.space) has some more details on our current mission, the team, and the facilities.
  - We use GitHub to manage all of the code, CAD and tex files (among others). Here are a few good tutorials for learning how to use GitHub:
    - [GitHub's own guides](https://guides.github.com/),
    - [Tutorial to visualize branching, and more](https://learngitbranching.js.org/).
