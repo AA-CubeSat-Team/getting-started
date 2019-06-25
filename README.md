@@ -17,5 +17,5 @@ Shout out to [OreSat](http://oresat.org/) for giving us the idea of including th
  - Written documents, such as ICDs, requirements, ConOps, etc are all located on our Google Team Drive. One of the admins can add you to this once you join.
 
 ## Join the Team
- - The best way to get involved is to start coming to shop hours in AERB 023. These are **Wednesdays and Fridays 2-5pm** each week, and is a time when there is guaranteed to be somebody in the lab working away. Come and have your questions answered, tinker with hardware, learn new things, and make progress on your satellite components!
+ - The best way to get involved is to start coming to shop hours in AERB 023. These are **Wednesdays and Fridays 2-5pm** each week (except during summer - reach out to aact@uw.edu during the Summer quarter), and is a time when there is guaranteed to be somebody in the lab working away. Come and have your questions answered, tinker with hardware, learn new things, and make progress on your satellite components!
  - If you can't make it to shop hours, send us an email at aact@uw.edu and we'll be more than happy to find a time when we can meet you and get the ball rolling.
