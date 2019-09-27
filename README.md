@@ -18,9 +18,9 @@ Shout out to [OreSat](http://oresat.org/) for giving us the idea of including th
 
 ## Join the Team
  - The best way to get involved is to start coming to shop hours in AERB 023, aka the "sat cave." These are times when the door is unlocked and there is guaranteed to be somebody in the lab working away. Come and have your questions answered, tinker with hardware, learn new things, and make progress on your satellite components!  Shop hours for Fall Quarter 2019 are:
- * Mondays 2-5pm
- * Tuesdays 12:30-3:30pm
- * Wednesdays 1-4pm
- * Thursdays 11:30am-2:30pm
- * Fridays 10am-2pm
+  * Mondays 2-5pm
+  * Tuesdays 12:30-3:30pm
+  * Wednesdays 1-4pm
+  * Thursdays 11:30am-2:30pm
+  * Fridays 10am-2pm
  - If you can't make it to shop hours, send us an email at aact@uw.edu and we'll be more than happy to find a time when we can meet you and get the ball rolling.
