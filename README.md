@@ -19,4 +19,4 @@ Shout out to [OreSat](http://oresat.org/) for giving us the idea of including th
 ## Join the Team
  The best way to get involved is to start coming to shop hours in AERB 023, aka the "sat cave." These are times when the door is unlocked and there is guaranteed to be somebody in the lab working away. Come and have your questions answered, tinker with hardware, learn new things, and make progress on your satellite components!
  
-*The current coronavirus pandemic has halted our in person shop hours. During this time, we will only be accepting a limited number of new students to work on specific projects. Please contact us through aact@uw.edu. to hear what we're "hiring" for!*
+*The current coronavirus pandemic has halted our in person shop hours. During this time, we are still accepting new students to work on specific projects. Please contact us through aact@uw.edu. to hear what we're "hiring" for!*
